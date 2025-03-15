@@ -1,0 +1,20 @@
+{
+	"name": "p5play",
+	"description": "Create games with p5play!",
+	"categories": ["Web app"],
+	"icon": "https://p5play.org/assets/p5play_logo.webp",
+	"website": "https://p5play.org",
+	"publisher": "Quinton Ashley",
+	"params": [
+		{
+			"id": "language",
+			"name": "Language",
+			"type": "enum",
+			"default": "js",
+			"options": {
+				"js": "JavaScript",
+				"ts": "TypeScript"
+			}
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"name": "p5play-idx-template",
+	"version": "1.0.0",
+	"main": "sketch.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"p5play": "^3.26.13",
+		"q5": "^2.23.2"
+	}
+}
